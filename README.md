@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="ASCII ART PRO logo" width="200" />
+
 # 🎨 ASCII ART PRO
 
 ### محوّل الصور إلى فن ASCII — Image to ASCII Art Converter
